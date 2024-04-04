@@ -132,22 +132,22 @@ const textToSpeech = async (text, voice) => {
           // } else {
           //   blend[shapeName] = blendArray[i]; // Keep other values as they are
           // }
-          // // fear
-          // if (i === 6 || i === 13) {
-          //   // eyeWideLeft, eyeWideRight
-          //   blend[shapeName] = 0.8;
-          // } else if (i === 43 || i === 44) {
-          //   // browOuterUpLeft, browOuterUpRight
-          //   blend[shapeName] = 0.7;
-          // } else if (i === 41 || i === 42) {
-          //   // browDownLeft, browDownRight
-          //   blend[shapeName] = 0.6;
-          // } else if (i === 17) {
-          //   // jawOpen
-          //   blend[shapeName] = blendArray[i] - 0.2; // Slightly open mouth as part of the fear expression
-          // } else {
-          //   blend[shapeName] = blendArray[i]; // Keep other values as they are
-          // }
+          // fear
+          if (i === 6 || i === 13) {
+            // eyeWideLeft, eyeWideRight
+            blend[shapeName] = 0.8;
+          } else if (i === 43 || i === 44) {
+            // browOuterUpLeft, browOuterUpRight
+            blend[shapeName] = 0.7;
+          } else if (i === 41 || i === 42) {
+            // browDownLeft, browDownRight
+            blend[shapeName] = 0.6;
+          } else if (i === 17) {
+            // jawOpen
+            blend[shapeName] = blendArray[i] - 0.2; // Slightly open mouth as part of the fear expression
+          } else {
+            blend[shapeName] = blendArray[i]; // Keep other values as they are
+          }
         });
 
         blendData.push({
