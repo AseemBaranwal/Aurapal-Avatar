@@ -4,6 +4,20 @@
 
 EMOTIONAL-AVATAR is an advanced virtual companion designed to provide empathetic support by interpreting and reacting to users' emotions. Leveraging cutting-edge technologies such as the Llama 2 language model and a Conditional Variational Autoencoder (CVAE), this system offers a novel approach to enhancing user engagement through sensitive and nuanced responses, facial expressions, and gestures.
 
+### DEMO
+
+#### Happy Expression
+
+[![Happy Expression](https://drive.google.com/uc?export=view&id=1Gtai7U0QYXx86Tz6bP52s3hSd1LSFKJS)](https://drive.google.com/file/d/1jLjtw5usLCgWnqcBO4ygFvD4drXQIAzU)
+
+#### Sad Expression
+
+[![Sad Expression](https://drive.google.com/uc?export=view&id=1MsAkqtV18LdCo1xESR4y4zv1T-nHzawg)](https://drive.google.com/file/d/1jwWrJbxhClmwM18a6mfzZ8PwdhSUFhxl)
+
+#### Disgust Expression
+
+[![Disgust Expression](https://drive.google.com/uc?export=view&id=1Usdp7I7S0YXBo6XXLsStiFbPAJ5U6w_w)](https://drive.google.com/file/d/18ilcMnJ-4IhOTQrHkCf4zn6l905YGlg2)
+
 ## Environment Setup
 
 Before starting the application, you need to set up environment variables that will be used by both the front-end and the back-end.
