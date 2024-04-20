@@ -6,38 +6,17 @@ EMOTIONAL-AVATAR is an advanced virtual companion designed to provide empathetic
 
 ## DEMO
 
-<!-- #### Happy Expression
+### Happy Expression
 
-[![Happy Expression](https://drive.google.com/uc?export=view&id=1Gtai7U0QYXx86Tz6bP52s3hSd1LSFKJS)](https://drive.google.com/file/d/1jLjtw5usLCgWnqcBO4ygFvD4drXQIAzU)
+<iframe width="560" height="315" src="https://youtu.be/3wse30XfCiQ" frameborder="0" allowfullscreen></iframe>
 
-#### Sad Expression
+### Sad Expression
 
-[![Sad Expression](https://drive.google.com/uc?export=view&id=1MsAkqtV18LdCo1xESR4y4zv1T-nHzawg)](https://drive.google.com/file/d/1jwWrJbxhClmwM18a6mfzZ8PwdhSUFhxl)
+<iframe width="560" height="315" src="https://youtu.be/I4FXHu6FiH0" frameborder="0" allowfullscreen></iframe>
 
-#### Disgust Expression
+### Disgust Expression
 
-[![Disgust Expression](https://drive.google.com/uc?export=view&id=1Usdp7I7S0YXBo6XXLsStiFbPAJ5U6w_w)](https://drive.google.com/file/d/18ilcMnJ-4IhOTQrHkCf4zn6l905YGlg2) -->
-
-#### Happy Expression
-
-<video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/1jLjtw5usLCgWnqcBO4ygFvD4drXQIAzU.mov" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-#### Sad Expression
-
-<video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/1jwWrJbxhClmwM18a6mfzZ8PwdhSUFhxl.mov" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-#### Disgust Expression
-
-<video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/18ilcMnJ-4IhOTQrHkCf4zn6l905YGlg2.mov" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="560" height="315" src="https://youtu.be/rPwsjY7-OBw" frameborder="0" allowfullscreen></iframe>
 
 ## Environment Setup
 
