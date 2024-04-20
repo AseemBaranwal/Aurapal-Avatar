@@ -8,15 +8,15 @@ EMOTIONAL-AVATAR is an advanced virtual companion designed to provide empathetic
 
 ### Happy Expression
 
-<iframe width="560" height="315" src="https://youtu.be/3wse30XfCiQ" frameborder="0" allowfullscreen></iframe>
+[![Happy Expression](https://img.youtube.com/vi/nChZNyCEMSE/0.jpg)](https://www.youtube.com/watch?v=nChZNyCEMSE "Happy Expression")
 
 ### Sad Expression
 
-<iframe width="560" height="315" src="https://youtu.be/I4FXHu6FiH0" frameborder="0" allowfullscreen></iframe>
+[![Sad Expression](https://img.youtube.com/vi/TtoRwYejk2E/0.jpg)](https://www.youtube.com/watch?v=TtoRwYejk2E "Sad Expression")
 
 ### Disgust Expression
 
-<iframe width="560" height="315" src="https://youtu.be/rPwsjY7-OBw" frameborder="0" allowfullscreen></iframe>
+[![Disgust Expression](https://img.youtube.com/vi/pEuGm5dBQUo/0.jpg)](https://www.youtube.com/watch?v=pEuGm5dBQUo "Disgust Expression")
 
 ## Environment Setup
 
