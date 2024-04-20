@@ -21,21 +21,21 @@ EMOTIONAL-AVATAR is an advanced virtual companion designed to provide empathetic
 #### Happy Expression
 
 <video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/1jLjtw5usLCgWnqcBO4ygFvD4drXQIAzU" type="video/mp4">
+  <source src="https://drive.google.com/file/d/1jLjtw5usLCgWnqcBO4ygFvD4drXQIAzU.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 #### Sad Expression
 
 <video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/1jwWrJbxhClmwM18a6mfzZ8PwdhSUFhxl" type="video/mp4">
+  <source src="https://drive.google.com/file/d/1jwWrJbxhClmwM18a6mfzZ8PwdhSUFhxl.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 #### Disgust Expression
 
 <video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/18ilcMnJ-4IhOTQrHkCf4zn6l905YGlg2" type="video/mp4">
+  <source src="https://drive.google.com/file/d/18ilcMnJ-4IhOTQrHkCf4zn6l905YGlg2.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
