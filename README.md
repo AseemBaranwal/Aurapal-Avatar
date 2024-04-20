@@ -8,7 +8,7 @@ EMOTIONAL-AVATAR is an advanced virtual companion designed to provide empathetic
 
 ### Happy Expression
 
-[![Happy Expression](https://img.youtube.com/vi/nChZNyCEMSE/0.jpg)](https://www.youtube.com/watch?v=nChZNyCEMSE "Happy Expression")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TtoRwYejk2E?si=RMMbksz4u8HkUcxi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Sad Expression
 
