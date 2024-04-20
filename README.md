@@ -4,19 +4,30 @@
 
 EMOTIONAL-AVATAR is an advanced virtual companion designed to provide empathetic support by interpreting and reacting to users' emotions. Leveraging cutting-edge technologies such as the Llama 2 language model and a Conditional Variational Autoencoder (CVAE), this system offers a novel approach to enhancing user engagement through sensitive and nuanced responses, facial expressions, and gestures.
 
-## DEMO
+### Expression Videos
 
-### Happy Expression
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TtoRwYejk2E?si=RMMbksz4u8HkUcxi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-### Sad Expression
-
-[![Sad Expression](https://img.youtube.com/vi/TtoRwYejk2E/0.jpg)](https://www.youtube.com/watch?v=TtoRwYejk2E "Sad Expression")
-
-### Disgust Expression
-
-[![Disgust Expression](https://img.youtube.com/vi/pEuGm5dBQUo/0.jpg)](https://www.youtube.com/watch?v=pEuGm5dBQUo "Disgust Expression")
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=nChZNyCEMSE" title="Happy Expression">
+        <img src="https://img.youtube.com/vi/nChZNyCEMSE/0.jpg" alt="Happy Expression" style="width:150px;">
+      </a>
+      <br>Happy Expression
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=TtoRwYejk2E" title="Sad Expression">
+        <img src="https://img.youtube.com/vi/TtoRwYejk2E/0.jpg" alt="Sad Expression" style="width:150px;">
+      </a>
+      <br>Sad Expression
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=pEuGm5dBQUo" title="Disgust Expression">
+        <img src="https://img.youtube.com/vi/pEuGm5dBQUo/0.jpg" alt="Disgust Expression" style="width:150px;">
+      </a>
+      <br>Disgust Expression
+    </td>
+  </tr>
+</table>
 
 ## Environment Setup
 
